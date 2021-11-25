@@ -7,8 +7,6 @@ joblib
 MarkupSafe
 pandas
 python-dateutil
-base64
-io
 pytz
 scikit-learn
 scipy
