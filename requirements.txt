@@ -7,7 +7,6 @@ joblib
 MarkupSafe
 pandas
 python-dateutil
-pickle
 base64
 io
 pytz
